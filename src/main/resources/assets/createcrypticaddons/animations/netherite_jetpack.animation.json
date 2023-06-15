@@ -1,0 +1,31 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.model.netherite_jetpack_cog": {
+			"loop": true,
+			"animation_length": 12,
+			"bones": {
+				"CogRight": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 360, 0]
+						},
+						"12.0": {
+							"vector": [0, 0, 0]
+						}
+					}
+				},
+				"CogLeft": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"12.0": {
+							"vector": [0, 360, 0]
+						}
+					}
+				}
+			}
+		}
+	}
+}

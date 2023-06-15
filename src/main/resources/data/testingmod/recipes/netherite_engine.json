@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "L": {
+      "item": "create:large_cogwheel"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "CLC",
+    "PNP",
+    "   "
+  ],
+  "result": {
+    "item": "createcrypticaddons:netherite_engine"
+  }
+}

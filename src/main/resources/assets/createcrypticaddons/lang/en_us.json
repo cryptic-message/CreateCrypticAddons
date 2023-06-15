@@ -1,0 +1,12 @@
+{
+  "item.createcrypticaddons.netherite_jetpack": "Netherite Jetpack",
+  "item.createcrypticaddons.netherite_engine": "Netherite Engine",
+
+
+
+  "key.category.createcrypticaddons.testing": "Testing Mod",
+  "key.createcrypticaddons.jetpack_thrust": "Jetpack Thrust",
+  "key.createcrypticaddons.jetpack_boost": "Jetpack Boost",
+
+  "itemGroup.createcrypticaddonstab": "Create Cryptic Addons"
+}
